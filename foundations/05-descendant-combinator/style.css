@@ -1,0 +1,20 @@
+.container .text{
+    color: red;
+    background-color: #ffff00;
+    font-size: 20px;
+    text-align: center;
+}
+/* div .text{
+    color: red;
+    background-color: #ffff00;
+    font-size: 20px;
+    text-align: center;
+} */
+/* .container p{
+    color: red;
+    background-color: #ffff00;
+    font-size: 20px;
+    text-align: center;
+} */
+/* three ways of using same desendant conbinator
+for that  */
